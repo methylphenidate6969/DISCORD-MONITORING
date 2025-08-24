@@ -32,5 +32,5 @@ Obsahuje základní moderátorské příkazy, logování zpráv, uvítací zprá
    npm install discord.js
 
 ## 🏃 Run
-
+  ```bash
   node index.js
